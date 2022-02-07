@@ -24,9 +24,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/sultan25368"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sultan25368" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanaljadani&show_icons=true&locale=en&layout=compact" alt="sultanaljadaani" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanaljadani&show_icons=true&locale=en&layout=compact" alt="sultanaljadaani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanaljadani&show_icons=true&locale=en" alt="sultanaljadaani" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanaljadani&show_icons=true&locale=en" alt="sultanaljadaani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanaljadani&" alt="sultanaljadaani" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanaljadani&" alt="sultanaljadaani" /></p>
 
