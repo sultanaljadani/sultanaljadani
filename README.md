@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Sultan Aljadani — Software Developer and UI/UX Designer" width="100%" />
+  <img src="./profile-banner.png" alt="Sultan Aljadani — Software Developer and UI/UX Designer" width="100%" />
 </div>
 
 <br />
