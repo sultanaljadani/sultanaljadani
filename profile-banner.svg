@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Sultan Aljadani | Software Developer and UI/UX Designer</title>
+  <desc id="desc">Modern dark header with lilac and cyan accents and an abstract interface design illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="60%" stop-color="#12172b"/>
+      <stop offset="100%" stop-color="#16122d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#202842"/>
+      <stop offset="100%" stop-color="#151b31"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#334155" stroke-width=".65" opacity=".34"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="43"/>
+    </filter>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="17" flood-color="#020617" flood-opacity=".55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#grid)" opacity=".6"/>
+  </g>
+  <circle cx="1010" cy="45" r="160" fill="#7c3aed" opacity=".18" filter="url(#glow)"/>
+  <circle cx="665" cy="350" r="170" fill="#0891b2" opacity=".12" filter="url(#glow)"/>
+  <rect x="58" y="45" width="173" height="32" rx="16" fill="#8b5cf6" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".35"/>
+  <circle cx="78" cy="61" r="5" fill="#a78bfa"/>
+  <text x="94" y="66" fill="#c4b5fd" font-size="13" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.6">HELLO, I'M</text>
+  <text x="56" y="153" fill="#f8fafc" font-size="59" font-weight="800" font-family="Arial,Helvetica,sans-serif" letter-spacing="-1.7">Sultan Aljadani</text>
+  <rect x="58" y="177" width="75" height="4" rx="2" fill="url(#accent)"/>
+  <text x="58" y="217" fill="#cbd5e1" font-size="23" font-weight="500" font-family="Arial,Helvetica,sans-serif">Software Developer  <tspan fill="#a78bfa">/</tspan>  UI/UX Designer</text>
+  <text x="58" y="262" fill="#94a3b8" font-size="18" font-family="Arial,Helvetica,sans-serif">Designing intuitive experiences. Building useful software.</text>
+  <g transform="translate(725 35)" filter="url(#shadow)">
+    <rect x="0" y="0" width="416" height="269" rx="17" fill="url(#panel)" stroke="#64748b" stroke-opacity=".35"/>
+    <rect width="416" height="37" rx="17" fill="#26304c"/>
+    <path d="M0 23h416v14H0" fill="#26304c"/>
+    <circle cx="22" cy="19" r="4.5" fill="#fb7185"/>
+    <circle cx="39" cy="19" r="4.5" fill="#fbbf24"/>
+    <circle cx="56" cy="19" r="4.5" fill="#34d399"/>
+    <rect x="146" y="12" width="117" height="13" rx="6.5" fill="#0f172a"/>
+    <path d="M22 61h43v184H22z" rx="8" fill="#1c2743"/>
+    <rect x="30" y="72" width="27" height="6" rx="3" fill="#8b5cf6"/>
+    <rect x="30" y="95" width="23" height="5" rx="2.5" fill="#475569"/>
+    <rect x="30" y="114" width="23" height="5" rx="2.5" fill="#475569"/>
+    <rect x="30" y="133" width="23" height="5" rx="2.5" fill="#475569"/>
+    <rect x="30" y="152" width="23" height="5" rx="2.5" fill="#475569"/>
+    <rect x="82" y="64" width="175" height="101" rx="9" fill="#101b31" stroke="#334155"/>
+    <rect x="95" y="78" width="82" height="7" rx="3.5" fill="#cbd5e1"/>
+    <rect x="95" y="94" width="128" height="5" rx="2.5" fill="#475569"/>
+    <rect x="95" y="106" width="107" height="5" rx="2.5" fill="#475569"/>
+    <rect x="95" y="127" width="71" height="24" rx="7" fill="url(#accent)"/>
+    <rect x="183" y="126" width="57" height="25" rx="7" fill="#26304c" stroke="#475569"/>
+    <rect x="272" y="64" width="124" height="101" rx="9" fill="#111d35" stroke="#334155"/>
+    <path d="M286 145l27-22 22 11 18-32 27 17" stroke="url(#accent)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="313" cy="123" r="4" fill="#a78bfa"/>
+    <circle cx="353" cy="102" r="4" fill="#38bdf8"/>
+    <rect x="82" y="178" width="314" height="65" rx="9" fill="#111d35" stroke="#334155"/>
+    <rect x="97" y="192" width="103" height="8" rx="4" fill="#e2e8f0"/>
+    <rect x="97" y="208" width="181" height="5" rx="2.5" fill="#475569"/>
+    <rect x="97" y="221" width="147" height="5" rx="2.5" fill="#475569"/>
+    <rect x="314" y="194" width="64" height="34" rx="9" fill="#334155"/>
+    <path d="M328 212l8-7-8-7M346 198l-7 28M356 205l8 7-8 7" stroke="#7dd3fc" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="0" y="336" width="1200" height="4" rx="2" fill="url(#accent)"/>
+</svg>
