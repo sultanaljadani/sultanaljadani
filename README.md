@@ -1,33 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sultan Aljadani</h1>
-<h3 align="center">A frontend developer from Saudi Arabia</h3>
+<!--
+  GitHub Profile README — Sultan Aljadani
+  Place this file in the root of: github.com/sultanaljadani/sultanaljadani
+  Also upload: assets/profile-banner.svg
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanaljadaani&label=Profile%20views&color=0e75b6&style=flat" alt="sultanaljadaani" /> </p>
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Sultan Aljadani — Software Developer and UI/UX Designer" width="100%" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/___7rb" target="blank"><img src="https://img.shields.io/twitter/follow/___7rb?logo=twitter&style=for-the-badge" alt="___7rb" /></a> </p>
+<br />
 
-- 🌱 I’m currently learning **Laravel**
+<div align="center">
+  <strong>Design-minded developer. Detail-driven creator.</strong>
+  <p>Based in Jeddah, Saudi Arabia 🇸🇦 · Building digital experiences that feel as good as they work.</p>
+  <p>
+    <a href="mailto:sultanaljadaani@gmail.com">Email</a>
+    &nbsp;·&nbsp;
+    <a href="https://sa.linkedin.com/in/eng-sultan-aljadani-b89198147">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="https://twitter.com/___7rb">X / Twitter</a>
+    &nbsp;·&nbsp;
+    <a href="https://instagram.com/2sa4">Instagram</a>
+  </p>
+</div>
 
-- 💬 Ask me about **react and Angular**
+---
 
-- 📫 How to reach me **sultanaljadaani@gmail.com**
+### 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/___7rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___7rb" height="30" width="40" /></a>
-<a href="https://sa.linkedin.com/in/eng-sultan-aljadani-b89198147?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eng-sultan-aljadani" height="30" width="40" /></a>
-<a href="https://instagram.com/2sa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2sa4" height="30" width="40" /></a>
-</p>
+I'm **Sultan Aljadani**, a **Software Developer & UI/UX Designer** who enjoys turning complex ideas into clear, functional, and well-designed digital experiences.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I work at the intersection of **frontend engineering**, **interface design**, and **problem-solving** — with a focus on usability, consistency, and clean implementation.
 
+- 🎨 I care about thoughtful design systems and intuitive user journeys.
+- 💻 I enjoy working with **React**, **Angular**, and modern web technologies.
+- 🌱 I'm exploring **Laravel** to grow my backend development skills.
+- 📍 Based in **Jeddah, Saudi Arabia**.
 
-<br><br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanaljadani&show_icons=true&locale=en&layout=compact" alt="sultanaljadaani" /></p>
+### ✨ What I Do
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sultanaljadani&show_icons=true&locale=en" alt="sultanaljadaani" /></p>
+| 🧩 UI/UX Design | 💻 Frontend Development | 🚀 Digital Experiences |
+| :--- | :--- | :--- |
+| Intuitive interfaces, design systems, and thoughtful user flows. | Responsive, accessible, and maintainable web interfaces. | Connecting design and code to create practical digital solutions. |
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanaljadani&" alt="sultanaljadaani" /></p>
+### 🛠️ Technologies & Tools
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sultan25368"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sultan25368" /></a></p><br><br>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Angular` |
+| **Styling** | `Tailwind CSS` `Bootstrap` `Sass` |
+| **Backend & Data** | `Node.js` `PHP` `.NET` `MySQL` |
+| **Design** | `Figma` `Adobe Photoshop` `Adobe Illustrator` `Sketch` |
+| **Workflow** | `Git` `GitHub` `Webpack` |
+| **Currently exploring** | `Laravel` |
+
+### 📂 Explore My Work
+
+I use GitHub to share code, experiment with technologies, and keep learning.
+
+**[Browse my repositories →](https://github.com/sultanaljadani?tab=repositories)**
+
+### 🤝 Let's Connect
+
+I'm always glad to connect with people who care about purposeful software, good design, and practical ideas.
+
+**[LinkedIn](https://sa.linkedin.com/in/eng-sultan-aljadani-b89198147)** · **[Email](mailto:sultanaljadaani@gmail.com)** · **[GitHub](https://github.com/sultanaljadani)**
+
+---
+
+<div align="center">
+  <sub>Made with intention — where design meets development.</sub>
+</div>
